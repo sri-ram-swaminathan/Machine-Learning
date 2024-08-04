@@ -4,6 +4,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-3D9970?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![ISLP](https://img.shields.io/badge/ISLP-0078D7?style=for-the-badge&logo=python&logoColor=white&link=https://islp.readthedocs.io/en/latest/)
 
 <p><img src="https://m.media-amazon.com/images/I/61PzzBEMelL._SL1175_.jpg" height=20% width=20%></p>
 
