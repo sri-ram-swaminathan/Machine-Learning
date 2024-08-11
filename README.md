@@ -15,3 +15,5 @@ Below are blog posts I've written to explain the concepts from each chapter.
 [Chapter 2 : Statistical Learning](https://medium.com/@sriramthinksaboutthings/chapter-2-statistical-learning-the-program-of-machine-learning-159ef954bd37)
 
 [Chapter 3 : Linear Regression](https://medium.com/@sriramthinksaboutthings/chapter-3-linear-regression-124a478907ac)
+
+[Chapter 4 : Classification](https://medium.com/@sriramthinksaboutthings/chapter-4-classification-20d900543a04)
