@@ -17,3 +17,5 @@ Below are blog posts I've written to explain the concepts from each chapter.
 [Chapter 3 : Linear Regression](https://medium.com/@sriramthinksaboutthings/chapter-3-linear-regression-124a478907ac)
 
 [Chapter 4 : Classification](https://medium.com/@sriramthinksaboutthings/chapter-4-classification-20d900543a04)
+
+[Chapter 5 : Resampling Methods](https://medium.com/@sriramthinksaboutthings/chapter-5-resampling-methods-d7d5fdb8274d)
