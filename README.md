@@ -19,3 +19,5 @@ Below are blog posts I've written to explain the concepts from each chapter.
 [Chapter 4 : Classification](https://medium.com/@sriramthinksaboutthings/chapter-4-classification-20d900543a04)
 
 [Chapter 5 : Resampling Methods](https://medium.com/@sriramthinksaboutthings/chapter-5-resampling-methods-d7d5fdb8274d)
+
+[Chapter 6 : Linear Model Selection and Regularization](https://medium.com/@sriramthinksaboutthings/chapter-6-linear-model-selection-and-regularization-b4266175ce24)
