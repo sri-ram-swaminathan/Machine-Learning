@@ -21,3 +21,5 @@ Below are blog posts I've written to explain the concepts from each chapter.
 [Chapter 5 : Resampling Methods](https://medium.com/@sriramthinksaboutthings/chapter-5-resampling-methods-d7d5fdb8274d)
 
 [Chapter 6 : Linear Model Selection and Regularization](https://medium.com/@sriramthinksaboutthings/chapter-6-linear-model-selection-and-regularization-b4266175ce24)
+
+[Chapter 7 : Moving Beyond Linearity](https://medium.com/@sriramthinksaboutthings/chapter-7-moving-beyond-linearity-07c6cba43b9f)
