@@ -23,3 +23,5 @@ Below are blog posts I've written to explain the concepts from each chapter.
 [Chapter 6 : Linear Model Selection and Regularization](https://medium.com/@sriramthinksaboutthings/chapter-6-linear-model-selection-and-regularization-b4266175ce24)
 
 [Chapter 7 : Moving Beyond Linearity](https://medium.com/@sriramthinksaboutthings/chapter-7-moving-beyond-linearity-07c6cba43b9f)
+
+[Chapter 8 : Tree Based Methods](https://medium.com/@sriramthinksaboutthings/chapter-8-tree-based-methods-fb6d4535ef91)
