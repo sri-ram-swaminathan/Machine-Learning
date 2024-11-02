@@ -28,3 +28,5 @@ Below are blog posts I've written to explain the concepts from each chapter.
 [Chapter 8 : Tree Based Methods](https://medium.com/@sriramthinksaboutthings/chapter-8-tree-based-methods-fb6d4535ef91)
 
 [Chapter 9 : Support Vector Machines](https://medium.com/@sriramthinksaboutthings/chapter-9-support-vector-machines-b24dd5459dcf)
+
+[Chapter 10 : Deep Learning](https://medium.com/@sriramthinksaboutthings/chapter-10-deep-learning-24f59dab32a8)
