@@ -4,7 +4,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-3D9970?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 
 <p><img src="https://m.media-amazon.com/images/I/61PzzBEMelL._SL1175_.jpg" height=20% width=20%></p>
