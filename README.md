@@ -12,20 +12,20 @@ This repository contains my solutions to the alternate exercises (both applied a
 
 Below are blog posts I've written to explain the concepts from each chapter.  
 
-[Chapter 2 : Statistical Learning](https://medium.com/@sriramthinksaboutthings/chapter-2-statistical-learning-the-program-of-machine-learning-159ef954bd37)
+[Chapter 2 : Statistical Learning](https://sriramswaminathan.com/technical/ch2/)
 
-[Chapter 3 : Linear Regression](https://medium.com/@sriramthinksaboutthings/chapter-3-linear-regression-124a478907ac)
+[Chapter 3 : Linear Regression](https://sriramswaminathan.com/technical/ch3/)
 
-[Chapter 4 : Classification](https://medium.com/@sriramthinksaboutthings/chapter-4-classification-20d900543a04)
+[Chapter 4 : Classification](https://sriramswaminathan.com/technical/ch4/)
 
-[Chapter 5 : Resampling Methods](https://medium.com/@sriramthinksaboutthings/chapter-5-resampling-methods-d7d5fdb8274d)
+[Chapter 5 : Resampling Methods](https://sriramswaminathan.com/technical/ch5/)
 
-[Chapter 6 : Linear Model Selection and Regularization](https://medium.com/@sriramthinksaboutthings/chapter-6-linear-model-selection-and-regularization-b4266175ce24)
+[Chapter 6 : Linear Model Selection and Regularization](https://sriramswaminathan.com/technical/ch6/)
 
-[Chapter 7 : Moving Beyond Linearity](https://medium.com/@sriramthinksaboutthings/chapter-7-moving-beyond-linearity-07c6cba43b9f)
+[Chapter 7 : Moving Beyond Linearity](https://sriramswaminathan.com/technical/ch7/)
 
-[Chapter 8 : Tree Based Methods](https://medium.com/@sriramthinksaboutthings/chapter-8-tree-based-methods-fb6d4535ef91)
+[Chapter 8 : Tree Based Methods](https://sriramswaminathan.com/technical/ch8/)
 
-[Chapter 9 : Support Vector Machines](https://medium.com/@sriramthinksaboutthings/chapter-9-support-vector-machines-b24dd5459dcf)
+[Chapter 9 : Support Vector Machines](https://sriramswaminathan.com/technical/ch9/)
 
-[Chapter 10 : Deep Learning](https://medium.com/@sriramthinksaboutthings/chapter-10-deep-learning-24f59dab32a8)
+[Chapter 10 : Deep Learning](https://sriramswaminathan.com/technical/ch10/)
