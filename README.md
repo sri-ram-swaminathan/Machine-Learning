@@ -12,20 +12,20 @@ This repository contains my solutions to the alternate exercises (both applied a
 
 Below are blog posts I've written to explain the concepts from each chapter.  
 
-[Chapter 2 : Statistical Learning](https://sriramswaminathan.com/introduction%20to%20statistical%20learning/ch2/)
+[Chapter 2 : Statistical Learning](https://sriramswaminathan.com/technical/ch2/)
 
-[Chapter 3 : Linear Regression](https://sriramswaminathan.com/introduction%20to%20statistical%20learning/ch3/)
+[Chapter 3 : Linear Regression](https://sriramswaminathan.com/technical/ch3/)
 
-[Chapter 4 : Classification](https://sriramswaminathan.com/introduction%20to%20statistical%20learning/ch4/)
+[Chapter 4 : Classification](https://sriramswaminathan.com/technical/ch4/)
 
-[Chapter 5 : Resampling Methods](https://sriramswaminathan.com/introduction%20to%20statistical%20learning/ch5/)
+[Chapter 5 : Resampling Methods](https://sriramswaminathan.com/technical/ch5/)
 
-[Chapter 6 : Linear Model Selection and Regularization](https://sriramswaminathan.com/introduction%20to%20statistical%20learning/ch6/)
+[Chapter 6 : Linear Model Selection and Regularization](https://sriramswaminathan.com/technical/ch6/)
 
-[Chapter 7 : Moving Beyond Linearity](https://sriramswaminathan.com/introduction%20to%20statistical%20learning/ch7/)
+[Chapter 7 : Moving Beyond Linearity](https://sriramswaminathan.com/technical/ch7/)
 
-[Chapter 8 : Tree Based Methods](https://sriramswaminathan.com/introduction%20to%20statistical%20learning/ch8/)
+[Chapter 8 : Tree Based Methods](https://sriramswaminathan.com/technical/ch8/)
 
-[Chapter 9 : Support Vector Machines](https://sriramswaminathan.com/introduction%20to%20statistical%20learning/ch9/)
+[Chapter 9 : Support Vector Machines](https://sriramswaminathan.com/technical/ch9/)
 
-[Chapter 10 : Deep Learning](https://sriramswaminathan.com/introduction%20to%20statistical%20learning/ch10/)
+[Chapter 10 : Deep Learning](https://sriramswaminathan.com/technical/ch10/)
