@@ -6,6 +6,4 @@ This repository contains my work from all the courses I have taken to teach myse
 
 Aside from this excellent course, I also read the [textbook](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen, and wrote an [article](https://sriramswaminathan.com/technical/neuralnetworks/) explaining in depth the theory and code of a vanilla neural network. 
 
-- [NLP Demystified](): made my theoretical understanding of Natural Language Processing more sound. A very good course.  
-
 - [Computer Vision](): my two projects from the course I took as part of my Master's 
