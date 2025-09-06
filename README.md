@@ -6,4 +6,4 @@ This repository contains my work from all the courses I have taken to teach myse
 
 Aside from this excellent course, I also read the [textbook](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen, and wrote an [article](https://sriramswaminathan.com/technical/neuralnetworks/) explaining in depth the theory and code of a vanilla neural network. 
 
-- [Computer Vision](): my two projects from the course I took as part of my Master's 
+- [Computer Vision](https://github.com/sri-ram-swaminathan/Machine-Learning/tree/main/Computer%20Vision): my two projects from the course I took as part of my Master's 
